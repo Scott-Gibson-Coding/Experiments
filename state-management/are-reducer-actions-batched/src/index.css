@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    min-height: 100vh;
+    background-color: var(--color-lime-200);
+    padding-inline: 2em;
+    padding-block: 1em;
+  }
+}
